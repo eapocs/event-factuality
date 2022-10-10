@@ -1,1 +1,1 @@
-# event-factuality
+# evaluating event factuality with BERT
